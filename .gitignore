@@ -44,7 +44,7 @@ Thumbs.db
 .github/instructions/nx.instructions.md
 
 # prisma
-generated/prisma/
+**/generated/
 
 # local env files
 .env
